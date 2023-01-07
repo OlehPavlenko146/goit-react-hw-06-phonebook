@@ -19,7 +19,4 @@ export const Title = styled.h1`
   padding: 20px;
 `;
 
-export const ConactsTitle = styled.h2`
-  font-size: 40px;
-  padding: 10px;
-`;
+

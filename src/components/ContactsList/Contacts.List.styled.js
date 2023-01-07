@@ -43,3 +43,9 @@ export const DeleteBtn = styled.button`
     transform: scale(1.05);
   }
 `;
+
+export const ContactsTitle = styled.h2`
+  margin: 0 auto;
+  font-size: 40px;
+  padding: 10px;
+`;
